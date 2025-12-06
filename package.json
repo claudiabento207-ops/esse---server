@@ -1,0 +1,12 @@
+{
+  "name": "wss-server",
+  "version": "1.0.0",
+  "description": "Servidor WebSocket SSL para HTTP Injector",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
